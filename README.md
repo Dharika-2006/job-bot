@@ -11,7 +11,7 @@ extracts recruiter emails, and sends your resume via Gmail.
 5. Run `node index.js` daily
 
 ## .env format
-. LINKEDIN_EMAIL=your@email.com
-. LINKEDIN_PASSWORD=yourpassword
-. GMAIL_USER=your@gmail.com
-. GMAIL_PASS=xxxx xxxx xxxx xxxx
+1. LINKEDIN_EMAIL=your@email.com
+2. LINKEDIN_PASSWORD=yourpassword
+3. GMAIL_USER=your@gmail.com
+4. GMAIL_PASS=xxxx xxxx xxxx xxxx
